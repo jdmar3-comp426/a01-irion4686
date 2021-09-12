@@ -1,0 +1,27 @@
+* {
+    background-color: #111133;
+    color: #ddd;
+    font-size: large;
+}
+
+h1 {
+    font-family:'Copperplate', Arial, sans-serif;
+    font-size: xx-large;
+}
+
+.topBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+a {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.topBar a {
+    margin: 5px 10px;
+    background-color: rgb(6, 51, 97);
+    border-radius: 10px;
+    padding: 2px 20px;
+}
