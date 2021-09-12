@@ -7,6 +7,15 @@
 h1 {
     font-family:'Copperplate', Arial, sans-serif;
     font-size: xx-large;
+    margin-bottom: 0px;
+}
+h2 {
+    font-size: large;
+    margin: 0px 10px 30px 6px;
+}
+
+.title {
+    flex-direction: column;
 }
 
 .topBar {
