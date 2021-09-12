@@ -55,3 +55,11 @@ p {
 li {
     list-style: circle;
 }
+
+button {
+    width: 15%;
+    text-align: start;
+    border-radius: 10px;
+    background-color: black;
+    margin: 5px 0px;
+}
